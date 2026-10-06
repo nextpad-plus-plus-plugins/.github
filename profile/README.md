@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nextpad.org/assets/images/npp_green.png" alt="Nextpad++" width="96">
+  <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.2_updates/macos-logo.png" alt="Notepad++ for macOS" width="1000">
   <h1>Nextpad++ Plugins</h1>
   <p><strong>The official plugin catalog for <a href="https://nextpad.org">Nextpad++</a> — the free, native port of Notepad++ for macOS and Linux.</strong></p>
   <p>
