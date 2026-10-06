@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://nextpad.org/plugins/">
-  <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.2_updates/macos-logo.png" alt="Notepad++ for macOS" width="900">
-  <img src="https://nextpad.org/assets/images/plugins_admin_screen.png" alt="Notepad++ for macOS" width="1050">
+  <img src="https://raw.githubusercontent.com/nextpad-plus-plus/nextpad.org/main/news/npp_v1.1.2_updates/macos-logo.png" alt="Notepad++ for macOS" width="800">
+  <img src="https://nextpad.org/assets/images/plugins_admin_screen.png" alt="Notepad++ for macOS" width="1000">
   </a>  
   <h1>Nextpad++ Plugins</h1>
   <p><strong>The official plugin catalog for <a href="https://nextpad.org">Nextpad++</a> — the free, native port of Notepad++ for macOS and Linux.</strong></p>
